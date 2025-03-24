@@ -27,6 +27,7 @@ This notebook handles the full data pipeline before modeling, including:
   - Focus narrowed to **leisure travelers**, excluding business and bleisure categories.
 
 > ✅ Processed dataset is stored as CSV for modeling purposes.
+> Dataset is not available due to NDA restrictions.
 
 ---
 
@@ -44,7 +45,7 @@ This notebook applies **custom clustering** based on WTP indicators and behavior
 
 - **Weighted K-Means Clustering**
   - Clusters analyzed for key differences in behavior, travel purpose, and revenue contribution.
-  - Emphasis on interpreting segments to drive pricing strategy and product personalization.
+  - Emphasis on interpreting segments to drive pricing strategy varyingness in Willingness to Pay
 
 ---
 
@@ -71,3 +72,5 @@ This notebook applies **custom clustering** based on WTP indicators and behavior
 - Model validation with external ticket pricing data.
 - Integration of PCA/UMAP for visualizing high-dimensional clustering.
 - Deployment as a dashboard.
+
+- 
