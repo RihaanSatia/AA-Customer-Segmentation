@@ -1,5 +1,5 @@
 
-# ✈️ Customer Segmentation for Airline Revenue Optimization
+# Customer Segmentation for Airline Revenue Optimization
 
 This project applies **data preprocessing, exploratory data analysis (EDA)**, and a customized **Weighted K-Means clustering approach** to identify customer segments based on **willingness to pay (WTP)** and **booking behavior**. The primary goal is to enable **data-driven revenue management strategies** for airlines, particularly American Airlines.
 
@@ -70,7 +70,5 @@ This notebook applies **custom clustering** based on WTP indicators and behavior
 ## 📌 Future Enhancements
 
 - Model validation with external ticket pricing data.
-- Integration of PCA/UMAP for visualizing high-dimensional clustering.
+- Integration of PCA/GMM for visualizing high-dimensional clustering.
 - Deployment as a dashboard.
-
-- 
